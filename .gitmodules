@@ -1,0 +1,3 @@
+[submodule "bitpound"]
+	path = bitpound
+	url = https://github.com/BitpoundCoin/bitpound.git
