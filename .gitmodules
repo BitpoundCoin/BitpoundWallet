@@ -1,3 +1,6 @@
 [submodule "bitpound"]
 	path = bitpound
 	url = https://github.com/BitpoundCoin/bitpound.git
+[submodule "cryptonote"]
+	path = cryptonote
+	url = https://github.com/BitpoundCoin/bitpound.git
